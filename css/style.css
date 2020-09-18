@@ -1,0 +1,53 @@
+header{
+    background-color: #444444;
+    height: 20%;
+    margin-bottom: 2%;
+}
+header img{
+    padding: 10px 25px 10px 15%;
+}
+header ul{
+    display: inline-block;
+}
+header ul li{
+    display: inline-block;
+    padding-right: 45px;
+    color: #969696;
+    position: relative;
+    bottom: 40px;
+}
+main .sec{
+    margin:0px 0 2% 15%;
+}
+main #sec2 img{
+    padding-right: 2.2%;
+}
+main #sec3 {
+    padding-right: 14%;
+}
+main #sec3 #left{
+    display: inline;
+    padding-right: 2%;
+}
+main #sec3 #right{
+    display: inline-block;
+    width: 47%;
+    position: relative;
+    bottom: 15px;
+    bottom: 2 px;
+    line-height: 23px;
+}
+main #sec3 #right h3{
+    font-weight: bold;
+}
+main #sec3 #right button{
+    color: white;
+    background-color: black;
+    padding: 5px 10px;
+    margin-top: 2px;
+}
+footer{
+    padding: 3%;
+    width: 100%;
+    background-color: #444444
+}
